@@ -1,0 +1,13 @@
+Here are the stats from the game!
+--------------------------- Arielan's Stats ---------------------------
+Character: Caramel_Carl
+Gold: 80
+Stamina: 74
+Candies in Possession:
+[Frosty Fizz] [Toxic Taffy] [Fearsome Fudge] [Crimson Crystal] [Mystic Marshmallow] [Bubblegum Blast] [Frosty Fizz] [Empty] [Empty] 
+--------------------------- Joe's Stats ---------------------------
+Character: Toffee_Todd
+Gold: 0
+Stamina: 163
+Candies in Possession:
+[Frosty Fizz] [Toxic Taffy] [Caramel Comet] [Breezy Butterscotch] [Fearsome Fudge] [Toxic Taffy] [Empty] [Empty] [Empty] 
